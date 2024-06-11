@@ -1,6 +1,5 @@
 ![logo](https://github.com/najib3762/najib3762/blob/main/photo-1542831371-29b0f74f9713.avif)
 <h1 align="center">Hi 👋, I'm najib</h1>
-<h3 align="center">A software engineer from morocco</h3>
 <img align= “right” alt=“coding” width=“ 400” src=“https://github.com/najib3762/najib3762/assets/138978972/e2f10c49-c358-4e91-9d2d-7a4080c73381.gif”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najib3762&label=Profile%20views&color=0e75b6&style=flat" alt="najib3762" /> </p>
 
